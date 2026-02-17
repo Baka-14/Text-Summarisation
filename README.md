@@ -1,6 +1,6 @@
-# AI3106 Foundations of NLP — Course Project
+#  Text Summarisation Course Project
 
-This repository is of my junior year coursework for **AI3106: Foundations of Natural Language Processing**. It captures multiple iterations of my attempt to solve a core NLP problem **text summarization** starting from simpler baselines and gradually moving toward modern transformer based approaches.
+This repository is of my junior year coursework for **AI3106: Foundations of Natural Language Processing**. It captures multiple iterations of my attempt to solve a core NLP problem **text summarisation** starting from simpler baselines and gradually moving toward modern transformer based approaches.
 
 The work is **not a polished library**; it’s an experiment trail that shows how my understanding of NLP evolved while building, debugging and comparing approaches.
 
@@ -85,3 +85,4 @@ Working on this in college was my first “end-to-end” NLP experience where I 
 
 ## Report / submission artifact
 - Submission zip: `submissions/Sai Srikar-Se20uari164.zip`
+
